@@ -11,5 +11,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("aaa");
+       System.out.println("ddd1");
+        System.out.println("ddd2");
+        System.out.println("ddd3");
+        System.out.println("ddd4");
+
     }
 }
